@@ -1,0 +1,35 @@
+{
+  "version" : "1.0.1",
+  "name" : "gradle-example-ci-server",
+  "number" : "1508138730551",
+  "type" : "GRADLE",
+  "buildAgent" : {
+    "name" : "Gradle",
+    "version" : "4.2"
+  },
+  "agent" : {
+    "name" : "Gradle",
+    "version" : "4.2"
+  },
+  "started" : "2017-10-16T09:25:30.528+0200",
+  "durationMillis" : 185,
+  "principal" : "vasi",
+  "artifactoryPrincipal" : "jenkins",
+  "artifactoryPluginVersion" : "Unknown",
+  "vcs" : [ ],
+  "licenseControl" : {
+    "runChecks" : false,
+    "includePublishedArtifacts" : false,
+    "autoDiscover" : false,
+    "licenseViolationsRecipientsList" : "",
+    "scopesList" : ""
+  },
+  "governance" : {
+    "blackDuckProperties" : {
+      "runChecks" : false,
+      "includePublishedArtifacts" : false,
+      "autoCreateMissingComponentRequests" : false,
+      "autoDiscardStaleComponentRequests" : false
+    }
+  }
+}
