@@ -1,7 +1,7 @@
 {
   "version" : "1.0.1",
   "name" : "gradle-example-ci-server",
-  "number" : "1508138730551",
+  "number" : "1508139034362",
   "type" : "GRADLE",
   "buildAgent" : {
     "name" : "Gradle",
@@ -11,8 +11,8 @@
     "name" : "Gradle",
     "version" : "4.2"
   },
-  "started" : "2017-10-16T09:25:30.528+0200",
-  "durationMillis" : 185,
+  "started" : "2017-10-16T09:30:34.339+0200",
+  "durationMillis" : 39,
   "principal" : "vasi",
   "artifactoryPrincipal" : "jenkins",
   "artifactoryPluginVersion" : "Unknown",
